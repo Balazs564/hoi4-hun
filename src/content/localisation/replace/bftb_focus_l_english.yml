@@ -1241,3 +1241,5 @@
   GRE_reorganize_the_royal_guard_desc: "The Royal Guard, or as they have previously been known, the Presidential Guard Company, was formed by royal decree in 1868. The Agema escort unit was comprised of a staff, two Evzone infantry companies, and one cavalry company. We must reorganize the units, and make use of them in the battlefield once again."
   GRE_utilize_british_capital: "Utilize British Capital"
   GRE_utilize_british_capital_desc: "It is clear that the British are more than willing to aid us as our king is a loyal ally to their cause. We should make use of this fact by asking their investors to help in reconstruction that which was lost during the civil war."
+  GRE_AUS_is_HUN_EMPIRE_tt: "Austria has formed §Y$HUN_EMPIRE_neutrality$§!"
+  BUL_has_abolished_monarchy_tt_NOT: "Not: Has abolished the Bulgarian Monarchy" #the trigger is never used in its = yes state

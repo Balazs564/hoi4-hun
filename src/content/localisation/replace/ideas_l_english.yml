@@ -2805,3 +2805,6 @@
   damage_to_naval_base_low: "$naval_base$ raided"
   damage_to_naval_base_medium: "$damage_to_naval_base_low$"
   damage_to_naval_base_high: "$damage_to_naval_base_low$"
+  capital_investment_model: "Capital Investment Model"
+  AFG_mohammad_hashim_khan_idea:0 "Mohammad Hashim Khan"
+  RAJ_risk_of_famine_instant_desc: "A §Rfamine§! will trigger if one of these are true:\n -We lose a starting Indian state and fail to take it back within §Y30 day(s)§! (Aden being excluded)\n-The new controller is not a releasable that is occupied by us at the start of the game\n-The new controller is not our subject."

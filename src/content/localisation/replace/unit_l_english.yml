@@ -691,3 +691,5 @@
   land_cruiser: "Land Cruiser"
   land_cruiser_desc: "A colossal war machine armed with battleship-grade weaponry and the heaviest armor, but extremely slow and resource-intensive."
   strat_bomber_intercontinental: "Intercontinental Bomber"
+  elephantry: "Elephantry"
+  elephantry_desc: "Elephant mounted Infantry. More Expensive, but good against Infantry"

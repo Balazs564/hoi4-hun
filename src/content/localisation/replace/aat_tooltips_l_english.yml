@@ -252,3 +252,4 @@
   subsidy_allied_nation_tt: "Allied Nations"
   subsidy_faction_leader_tt: "Faction Leader"
   subsidy_non_aggression_nation_tt: "Non-aggression Pact Signator Nation"
+  DEN_banned_communism_flag: " [DEN.GetNameDefCap] Has Banned Communism"

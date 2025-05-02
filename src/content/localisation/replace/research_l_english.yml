@@ -1307,3 +1307,7 @@
   mothership: "Anyahajó Repülõgép"
   transport_planes_cat: "Szállítórepülõk"
   
+  jungle_training_tech: "Jungle Training"
+  desert_training_tech: "Desert Training"
+  hills_training_tech: "Hills Training"
+  urban_training_tech: "Urban Training"

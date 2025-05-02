@@ -1909,3 +1909,6 @@
   supersonic_fighter1: "Supersonic Fighter"
   supersonic_fighter_equipment_1: "$supersonic_fighter1$"
   explosive_ammo: "$mega_gun_emplacement$"
+  naval_bomber1: "Naval Bomber I"
+  naval_bomber2: "Naval Bomber II"
+  naval_bomber3: "Naval Bomber III"

@@ -6,3 +6,4 @@
   is_at_peace_exiled_countries_excluded_tt:0 "Is at peace (war with exiled countries excluded)"
   is_alpine_TT:0 "Is alpine State"
   state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt: "Is fully controlled by §Y[ROOT.GetFlag][ROOT.GetNameDef]§!, any §Y[ROOT.GetAdjective] subject§! or §Yfaction member§!"
+  is_not_controlled_by_ROOT_or_ally: "Is §Ynot§! controlled by §H[Root.GetNameDef]§! or one of their allies."

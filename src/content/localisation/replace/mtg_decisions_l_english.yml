@@ -629,3 +629,4 @@
   ENG_send_the_home_guard_back_home: "Send the Home Guards back Home"
   ENG_disband_home_guards_tt: "§RAll Home Guard divisions will be disbanded§!. \n(Manpower and equipment will not be refunded)"
   ENG_promote_the_blitz_spirit: "Promote the Blitz Spirit"
+  ENG_trade_unions_demand_minister_appointment_1_NOT:1 "Trade Unions Demand Minister Appointment" #This is needed due to changes in how the custom_trigger_tooltip functions.

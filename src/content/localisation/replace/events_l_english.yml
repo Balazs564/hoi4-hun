@@ -3408,3 +3408,5 @@
   #This loc is now used in a different German event for trade deals:
   #This loc string is used for when Germany pressures Sweden to give up resource rights:
   AAT_germany.10.desc: "With the recent occupation of [144.GetName] by [FROM.GetNameDef] and its lackeys, [GER.GetLeader] has increased his pressure on us to trade more resources with them to fuel their war machines. The deal offered isn't entirely one-sided, and rejecting it might see us dragged into the war..."
+  generic_purchase_ships_events.04.desc.a: "[FROM.GetNameDefCap] have approached us with an offer to procure some of our mothballed capital ships. The assets they are interested in are no longer in service due to their age and lack of modern equipment. However, by selling the assets to [FROM.GetNameDef], we run the risk of escalating an already worsening naval arms race in the region."
+  generic_purchase_ships_events.04.desc.b: "[FROM.GetNameDefCap] have approached us with an offer to procure some of our mothballed capital ships. The assets they are interested in are no longer in service due to their age and lack of modern equipment."

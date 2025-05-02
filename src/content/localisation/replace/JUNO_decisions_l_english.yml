@@ -439,3 +439,6 @@
   CHL_released_itza_flag: "Released Itza"
   WLS_restore_y_wladfa_decision: "Restore Y Wladfa"
   WLA_reclaim_the_old_homeland_decision: "Reclaim the Old Homeland"
+  south_american_naval_arms_race_category_default: "The South American Naval Arms Race"
+  south_american_naval_arms_race_category_generic: "Naval Expansion"
+  ARG_balancing_act_decisions_AAT_tt: "Unlocks §YBalancing Act§! decisions which will allow us to balance between appeasing [USA.GetFlag]§Y[USA.GetName]§! and [ENG.GetFlag]§Y[ENG.GetName]§! or [GER.GetFlag]§Y[GER.GetName]§! and [ITA.GetFlag]§Y[ITA.GetName]§!. Appeasement will provide §YEquipment Subsidies§! for the §YInternational Market§!"

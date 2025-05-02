@@ -448,3 +448,6 @@
   NAME_THEME_COMMUNIST_VOLKSMARINE: "Volksmarine Vessels"
   NAME_THEME_HABSBURG_MONARCHS: "Historical Habsburg Monarchs"
   NAME_THEME_HRE_EMPERORS: "Holy Roman Emperors"
+  HISTORICAL_TEMPLATE_DESIGNER_NOTE:0 "§L$NOTE$§!"
+  UPGRADE_REQUIRED: "$UPGRADE|H$ requires level $LEVEL|H$"
+  EQUIPMENT_DESIGNER_HISTORICAL_DESIGN_DISABLED_NO_DESIGNS: "You have no valid Presets for this chassis type."

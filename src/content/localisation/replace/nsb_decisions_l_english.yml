@@ -931,3 +931,4 @@
   SOV_tupolev_design_bureau_dissolved_days_tt: "Current days since Bureau was dissolved: [?SOV_tupolev_design_bureau_dissolved_flag:days|Y0]"
   SOV_jiuquan_oil_prospection: "Oil Prospection in Jiuquan"
   SOV_jiuquan_oil_prospection_desc: "Our experts believe that there might be numerous oil deposits in [756.GetName], in the Northern part of the former territory of the [XSM.GetNeutralParty]. We must develop the infrastructure in the region to facilitate the exploitation of any deposits we find."
+  liberate_manchuria: "Liberate the Manchus"

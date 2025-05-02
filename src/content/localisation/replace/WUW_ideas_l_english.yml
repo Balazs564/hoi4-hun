@@ -984,3 +984,4 @@
   
   
   
+  is_controlled_by_ROOT_or_subject_NOT: "Is NOT controlled by §Y[ROOT.GetNameDef]§! or a subject"

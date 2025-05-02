@@ -1032,3 +1032,6 @@
   lar_spain.100.d: "Mai napon [SPR.GetLeader] bejelentette, hogy a hispán nép egyesül [SPR.GetNameDef] zászlaja alatt. Kijelentették, hogy céljuk az, hogy megvédjék az összes hispán népet, és biztosítsák, hogy a Birodalom még ezer évig fennmaradjon, továbbá kijelentették, hogy nemzeti küldetésük még nem ért véget."
   lar_spain.100.a: "Újra össze fognak omlani"
   lar_spain.100.b: "Ismét világhatalom vagyunk!"
+  lar_spain.34.c: "The Habsburg pretender has proved himself worthy"
+  lar_spain.34.c_tt: "Karl Pius von Habsburg will become King upon reinstitution of the monarchy.\n"
+  SPB_karl_pius_king: "Karl Pius von Habsburg"

@@ -397,3 +397,5 @@
   COMBAT_LOG_ENEMY:0 "Ellenséges erõk"
   street_fighting: "Street Fighting"
   TACTICS_ACTIVATION_REQUIREMENTS: "Activation requirements"
+  TACTICS_ATTACKER_ORG_DAMAGE_MODIFIER: "Attacker organization damage modifier:"
+  TACTICS_DEFENDER_ORG_DAMAGE_MODIFIER: "Defender organization damage modifier:"

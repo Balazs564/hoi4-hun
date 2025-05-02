@@ -2119,3 +2119,8 @@
   bba_africa_news.4.desc:0 "Many had doubts about the Organization of African Unity’s ability to uphold the promises it espoused. However, the members of the organization have stated their desire to deepen their integration by forming a federation of states within a larger African Union. While there is a great deal of work to be done to fully integrate the political systems of each member state, it seems that a new world power is beginning to take shape in Africa."
   bba_africa_news.4.a:0 "United we stand, divided we fall!"
   bba_africa_news.4.b:0 "This will amount to nothing."
+  BBA_italy_council_deposes_duce.2.t: "The Grand Council considers Direct Intervention"
+  BBA_italy_council_deposes_duce.2.desc: "Due to the recent trials and tribulations faced by [ROOT.GetLeader], the Grand Council has begun scheming to take power away and snatch it for themselves, an unpopular move that may eventually even lead to a civil war within our nation. We must do all in our power to mitigate the risk of this happening."
+  BBA_italy_council_deposes_duce.2.a: "We must take drastic measures to ensure this doesn't happen!"
+  ITA_grand_council_considers_intervention_tt: "Should power drift further into the hands of the §YGrand Council§!, they may completely §RSeize Power§! from §Y[ROOT.GetLeader]!§!"
+  generic_states_affected_no_prev_line_tt: "States affected:\n"

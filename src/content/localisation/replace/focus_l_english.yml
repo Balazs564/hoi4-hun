@@ -2557,3 +2557,5 @@
   GER_air_doctrine_shortcut: "The Air Force"
   GER_naval_doctrine_shortcut: "The Navy"
   FOCUS_SHORTCUT_TOOLTIP: "§GLeft-click§! to pan to the $PATH|H$ path."
+  mountain_guns_tt: "Enables §HMountain Gun§!\n§HArtillery (Mountains)§!\n    Attack: §G+8%§!\n    Movement: §G+15%§!\n§HAnti-Tank (Mountains)§!\n    Attack: §G+8%§!\n    Movement: §G+15%§!"
+  upgrades_design_company: "§GUpgrades§! §YDesign Company§!"

@@ -1282,3 +1282,7 @@
   ship_hull_nuclear_submarine_desc:0 "With nuclear reactors, our submarines can operate for a very long time underwater, while maintaing high speed, thus making them extremely deadly tool in our arsenal "
   ship_hull_mega_carrier:0 "Ice Carrier"
   ship_hull_mega_carrier_desc:0 "Gigantic carrier, created out of experimental ice-composites like Pykrete, that allows for regular planes to operate out of it, increasing the range of our naval aviation"
+  early_ship_hull_submarine: "$ship_hull_submarine_1$"
+  basic_ship_hull_submarine: "$ship_hull_submarine_2$"
+  improved_ship_hull_submarine: "$ship_hull_submarine_3$"
+  advanced_ship_hull_submarine: "$ship_hull_submarine_4$"

@@ -3534,3 +3534,6 @@
   GOT_newsevents.1.desc: "The [FROM.GetAdjective]s have managed to subdue the Europeans and establish themselves as the hegemon over the continent and have made moves to integrate the newly conquered territories. The [FROM.GetAdjective] government has attempted to rally the people behind the state and socialist ideals, launching several pan-nationalist propaganda campaigns to increase the support of the proletariat.\n\n[FROM.GetLeader] has declared that the united Proletarians of Europe will from now on be known as '[From.GetNameDef]'."
   GOT_newsevents.1.a: "We rise together"
   GOT_newsevents.1.b: "This does not bode well"
+  lithuania_mefo_bills_tt: "Uses Lithuanian gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\n"
+  poland_mefo_bills_tt: "Uses Polish gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\n"
+  generic_lower_mefo_bills_tt: "Uses newly seized gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\n"

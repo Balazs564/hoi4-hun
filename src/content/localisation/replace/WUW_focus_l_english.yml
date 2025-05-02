@@ -4041,3 +4041,10 @@
   remove_political_advisor_no_trait_tt: "$remove_political_advisor$§Y$CHARACTER$§!"
   
   available_scientist_one_line_tt: "$available_scientist_tt$ §Y$CHARACTER$§!"
+  AUS_form_evidenzburo: "Reform the Evidenzbureau"
+  AUS_form_evidenzburo_desc: "No matter our stance, aggressive or defensive, gaining intelligence on potential enemies is of utmost importance. We cannot allow ourselves to be caught off guard by our enemies' strength, speed or coordination, nor can we let them obtain information about us. It is time we reform the old Evidenzbureau to suit our current needs."
+  AUS_form_evidenzburo_tt: "Applied upgrades to the agency will depend on [ROOT.GetNameDef]'s choice between §YDefending the Homeland§! or §YAustrian Aggression§!"
+  GER_strengthen_kriegsmarine_fascism: "Kriegsmarine"
+  GER_strengthen_kriegsmarine_neutrality: "Kaiserliche Marine"
+  GER_strengthen_kriegsmarine_democratic: "Deutsche Marine"
+  GER_strengthen_kriegsmarine_communism: "Volksmarine"
